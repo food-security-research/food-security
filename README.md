@@ -1,2 +1,2 @@
 # food-security
-Web Portal Food Security Research, IIT Kharagpur
+Web Portal for Food Security Research, IIT Kharagpur
